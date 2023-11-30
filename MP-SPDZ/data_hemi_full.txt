@@ -17,3 +17,27 @@ test loss: 2.04193
 acc: 0.3477 (3477/10000)
 Starting timer 1 at 9271.56 (1.04452e+06 MB, 43350360 rounds) after 382.904
 Hohoho
+done with epoch 2
+Elapsed time: 14666.8
+Stopped timer 1 at 13881.5 (1.56678e+06 MB, 65025540 rounds)
+train_acc: 0.4687 (28122/60000)
+test loss: 1.78143
+acc: 0.5801 (5801/10000)
+Starting timer 1 at 13881.5 (1.56678e+06 MB, 65025540 rounds) after 379.283
+Hohoho
+done with epoch 3
+Elapsed time: 19676.3
+Stopped timer 1 at 18511.7 (2.08905e+06 MB, 86700720 rounds)
+train_acc: 0.589183 (35351/60000)
+test loss: 1.4924
+acc: 0.643 (6430/10000)
+Starting timer 1 at 18511.7 (2.08905e+06 MB, 86700720 rounds) after 382.622
+Hohoho
+done with epoch 4
+Elapsed time: 24678.5
+Stopped timer 1 at 23131.2 (2.61131e+06 MB, 108375900 rounds)
+train_acc: 0.676067 (40564/60000)
+test loss: 1.15707
+acc: 0.7462 (7462/10000)
+Starting timer 1 at 23131.2 (2.61131e+06 MB, 108375900 rounds) after 381.847
+Hohoho
